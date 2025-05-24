@@ -1,5 +1,0 @@
-com\example\spring_crud\controllers\ProductsController.class
-com\example\spring_crud\services\ProductRepository.class
-com\example\spring_crud\models\Product.class
-com\example\spring_crud\models\ProductDto.class
-com\example\spring_crud\SpringCrudApplication.class
